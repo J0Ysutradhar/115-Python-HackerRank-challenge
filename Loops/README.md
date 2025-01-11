@@ -30,8 +30,6 @@ Print **n** lines, each containing the square of the number from **0** to **n-1*
 16
 ```
 
-hg7777777
-
 **Explanation**
 
 The square of each number from **0** to **4** (inclusive) is printed on a new line.
