@@ -1,4 +1,4 @@
-# HackerRank Problem: Finding the Percentage1
+# HackerRank Problem: Finding the Percentage
 
 ## Problem Statement
 
