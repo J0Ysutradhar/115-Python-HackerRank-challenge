@@ -1,4 +1,4 @@
-# HackerRank Problem: Nested Lists1
+# HackerRank Problem: Nested Lists
 
 ## Problem Statement
 
