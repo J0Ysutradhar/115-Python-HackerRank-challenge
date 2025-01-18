@@ -1,4 +1,4 @@
-# HackerRank Problem: Python Lists1
+# HackerRank Problem: Python Lists
 
 ## Problem Statement
 
