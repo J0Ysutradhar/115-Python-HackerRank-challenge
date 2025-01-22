@@ -1,4 +1,4 @@
-# HackerRank Problem: Swap Case1
+# HackerRank Problem: Swap Case
 
 ## Problem Statement
 
