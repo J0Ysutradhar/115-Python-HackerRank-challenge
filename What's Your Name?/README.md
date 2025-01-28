@@ -1,4 +1,4 @@
-# HackerRank Problem: What's Your Name?1
+# HackerRank Problem: What's Your Name?
 
 ## Problem Statement
 
