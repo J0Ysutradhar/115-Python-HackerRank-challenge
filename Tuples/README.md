@@ -1,4 +1,4 @@
-# HackerRank Problem: Python Tuples1
+# HackerRank Problem: Python Tuples
 
 ## Problem Statement
 
