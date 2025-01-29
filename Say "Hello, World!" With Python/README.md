@@ -1,4 +1,4 @@
-## Problem Statement1
+## Problem Statement
 
 Check the **Tutorial** tab to learn how to solve this problem.
 
