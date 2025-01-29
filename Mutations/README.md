@@ -1,4 +1,4 @@
-# HackerRank Problem: Python Mutations1
+# HackerRank Problem: Python Mutations
 
 ## Problem Statement
 
