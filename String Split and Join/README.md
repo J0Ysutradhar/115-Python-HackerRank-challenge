@@ -1,4 +1,4 @@
-# HackerRank Problem: String Split and Join1
+# HackerRank Problem: String Split and Join
 
 ## Problem Statement
 
