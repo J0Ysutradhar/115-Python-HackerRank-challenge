@@ -1,4 +1,4 @@
-# Python Arithmetic Operators1
+# Python Arithmetic Operators
 
 **Task**
 
