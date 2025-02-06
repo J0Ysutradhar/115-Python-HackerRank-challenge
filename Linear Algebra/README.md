@@ -1,4 +1,4 @@
-# HackerRank Problem: Linear Algebra
+# HackerRank Problem: Linear Algebra1
 
 ## Problem Statement
 
