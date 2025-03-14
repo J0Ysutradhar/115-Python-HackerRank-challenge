@@ -1,4 +1,4 @@
-# HackerRank Problem: Find a String1
+# HackerRank Problem: Find a String
 
 ## Problem Statement
 
