@@ -1,4 +1,4 @@
-# Write a Function1
+# Write a Function
 
 **Task**
 
