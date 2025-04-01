@@ -1,6 +1,6 @@
 # HackerRank Problem: Linear Algebra
 
-## Problem Statement
+## Problem Statement1
 
 You are given a square matrix **A** with dimensions **N x N**. Your task is to compute the determinant of **A**.
 
