@@ -1,6 +1,6 @@
 # Python Arithmetic Operators
 **Task**
-1
+
 Read two integers from the user and print the results of the following arithmetic operations:
 
 1. The sum of the two numbers.
