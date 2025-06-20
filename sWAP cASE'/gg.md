@@ -1,7 +1,7 @@
-| Terrestrial Microwave Communication | Satellite Microwave Communication |
-|-------------------------------------|-----------------------------------|
-| • Communication happens between fixed transmitters and receivers on the ground using line-of-sight. | • First artificial satellite was launched in 1957. |
-| • For use, transmitter stations are placed at 25–30 km intervals and on high natural places like hills. | • Initially satellites were placed in low orbit. But controlling them took more time. So, now they are placed in geosynchronous orbit (about 36,000 km above the Earth). |
-| • Each transmission station amplifies the signal and sends it to the next station. | • Satellites contain basic transmitters, receivers, processor units, and antennas. |
-| • Stations are placed on tall buildings, towers, or hills. | • The uplink signal (sent to satellite) is between 6 × 10⁹ Hz. It is received and converted to 4 × 10⁹ Hz and sent back to Earth (downlink). |
-| • Microwave dishes are used. |  |
+| Advantages of Microwave | Disadvantages of Microwave |
+|--------------------------|-----------------------------|
+| • Microwave spectrum bandwidth is very high, so a large amount of data can be transmitted at once. | • In this method, both transmitter and receiver must be in a straight line (line-of-sight). |
+| • No need for cables or wires. | • Signals can be weakened by air and weather conditions, especially during bad weather. |
+| • Suitable for satellite communication. | • Weather-dependent performance. |
+| • Used for communication in remote areas. | |
+| • Works effectively even in emergency and natural disaster situations. | |
