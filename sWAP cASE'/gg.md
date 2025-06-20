@@ -1,7 +1,7 @@
-| **মাইক্রোওয়েভের সুবিধাগুলো** | **মাইক্রোওয়েভের অসুবিধাগুলো** |
-|-----------------------------|------------------------------|
-| • মাইক্রোওয়েভ স্পেকট্রামের ব্যান্ডউইথ অনেক বেশি তাই বিপুল পরিমাণ ডেটা একবারে ট্রান্সমিট করা যায়। | • এ পদ্ধতিতে ট্রান্সমিশন করতে সেন্ডার ও রিসিভার কে একই সরল রেখায় থাকতে হয়। |
-| • কোনো প্রকার কেবল দরকার হয় না। | • বায়ুমণ্ডল দ্বারা সিগন্যাল ক্ষয় হয় তাই বায়ুমণ্ডলের চলার সময় দূরত্ব কমে পরে। |
-| • স্যাটেলাইট চালাতে সক্ষম। | • বায়ুমণ্ডল নির্ভর ব্যয় বেশি। |
-| • দূরবর্তী অঞ্চলে যোগাযোগের জন্য মাইক্রোওয়েভ ওয়েভ ব্যবহার করা হয়। | |
-| • প্রতিকূল ও বৈরি আবহাওয়াতেও যোগাযোগ কার্যকর থাকে। | |
+| Terrestrial Microwave Communication | Satellite Microwave Communication |
+|-------------------------------------|-----------------------------------|
+| • Communication happens between fixed transmitters and receivers on the ground using line-of-sight. | • First artificial satellite was launched in 1957. |
+| • For use, transmitter stations are placed at 25–30 km intervals and on high natural places like hills. | • Initially satellites were placed in low orbit. But controlling them took more time. So, now they are placed in geosynchronous orbit (about 36,000 km above the Earth). |
+| • Each transmission station amplifies the signal and sends it to the next station. | • Satellites contain basic transmitters, receivers, processor units, and antennas. |
+| • Stations are placed on tall buildings, towers, or hills. | • The uplink signal (sent to satellite) is between 6 × 10⁹ Hz. It is received and converted to 4 × 10⁹ Hz and sent back to Earth (downlink). |
+| • Microwave dishes are used. |  |
