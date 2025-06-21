@@ -1,5 +1,7 @@
-| **Advantage** | **Disadvantage** |
-|---------------|------------------|
-| ➤ Parallel data transmission method is very fast. | ➤ Since it has multiple data lines, parallel data transmission method is very costly. |
-| ➤ It is the most suitable method for nearby transmission. | ➤ Not suitable for long-distance data transmission. |
-|               | ➤ Multiple side-by-side data lines cause high interference among themselves. |
+| সুবিধাঃ                                                                 | অসুবিধাঃ                                             |
+|------------------------------------------------------------------------|------------------------------------------------------|
+| A. অ্যাসিনক্রোনাস ডেটা ট্রান্সমিশন যেহেতু তুলনায় অপেক্ষাকৃত সস্তা বেশি। | প্রাথমিক স্টোরেজ লাগে।                             |
+| B. অবিরাম ডেটা ট্রান্সমিশন হওয়ায় ট্রান্সমিশন গতি অপেক্ষাকৃত বেশি।        | অ্যাসিনক্রোনাস ডেটা ট্রান্সমিশনের তুলনায় ব্যয়বহুল। |
+| C. প্রতি ক্যারেক্টারের পর ইন্টারভেল লাগে না।                              | কম্পিউটার হতে কম্পিউটার।                           |
+| D. ব্যবহারকারীর আগে ও পরে স্টার্ট ও স্টপ বিট লাগে না।                     | দূরবর্তী কোনো স্থানে ডেটা পাঠাতে।                   |
+| E. তুলনামূলকভাবে কম সময় লাগে।                                         |                                                      |
