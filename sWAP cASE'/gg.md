@@ -1,7 +1,7 @@
-| সুবিধাঃ                                                                 | অসুবিধাঃ                                             |
-|------------------------------------------------------------------------|------------------------------------------------------|
-|  অ্যাসিনক্রোনাস ডেটা ট্রান্সমিশন যেহেতু তুলনায় অপেক্ষাকৃত সস্তা বেশি। | প্রাথমিক স্টোরেজ লাগে।                             |
-|  অবিরাম ডেটা ট্রান্সমিশন হওয়ায় ট্রান্সমিশন গতি অপেক্ষাকৃত বেশি।        | অ্যাসিনক্রোনাস ডেটা ট্রান্সমিশনের তুলনায় ব্যয়বহুল। |
-|  প্রতি ক্যারেক্টারের পর ইন্টারভেল লাগে না।                              | কম্পিউটার হতে কম্পিউটার।                           |
-|  ব্যবহারকারীর আগে ও পরে স্টার্ট ও স্টপ বিট লাগে না।                     | দূরবর্তী কোনো স্থানে ডেটা পাঠাতে।                   |
-|  তুলনামূলকভাবে কম সময় লাগে।                                         |                                                      |
+| Advantages                                                           | Disadvantages                                        |
+|----------------------------------------------------------------------|------------------------------------------------------|
+| A. Asynchronous data transmission is relatively cheaper.             | Requires primary storage.                           |
+| B. Continuous data transmission results in relatively higher speed.  | More expensive compared to asynchronous transmission.|
+| C. No interval is needed after each character.                       | From computer to computer only.                     |
+| D. No start and stop bits are needed before and after data.          | To send data to distant locations.                  |
+| E. Takes comparatively less time.                                    |                                                      |
