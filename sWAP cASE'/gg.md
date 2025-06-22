@@ -1,7 +1,10 @@
-| Advantages                                                           | Disadvantages                                        |
-|----------------------------------------------------------------------|------------------------------------------------------|
-|  Asynchronous data transmission is relatively cheaper.             | Requires primary storage.                           |
-|  Continuous data transmission results in relatively higher speed.  | More expensive compared to asynchronous transmission.|
-|  No interval is needed after each character.                       | From computer to computer only.                     |
-|  No start and stop bits are needed before and after data.          | To send data to distant locations.                  |
-|  Takes comparatively less time.                                    |                                                      |
+| তুলনার বিষয়            | ওয়াই-ফাই                         | ওয়াই- ম্যাক্স                         |
+|-------------------------|------------------------------------|----------------------------------------|
+| স্ট্যান্ডার্ড            | IEEE 802.11                        | IEEE 802.16                            |
+| ফ্রিকোয়েন্সি ব্যান্ড    | 2.4GHz থেকে 2.85GHz                | 2.3 GHz থেকে 2.5 GHz                   |
+| গতি বা স্পীড            | 11-200 Mbps                        | 80 Mbps-1Gbps                          |
+| রেঞ্জ বা কভারেজ এরিয়া | ৫০ থেকে ১০০ মিটার                | প্রায় ৫০ কিলোমিটার                   |
+| ব্যয়                  | তুলনামূলকভাবে কম ব্যয়            | তুলনামূলকভাবে ব্যয় বেশি              |
+| ব্যবহার                | ওয়্যারলেস লোকাল এরিয়া নেটওয়ার্ক (LAN) তৈরিতে ব্যবহৃত হয় | ওয়্যারলেস ম্যান (MAN) তৈরিতে ব্যবহৃত হয় |
+| নেটওয়ার্ক টাইপ        | লোকাল এরিয়া নেটওয়ার্ক (LAN)     | মেট্রোপলিটন এরিয়া নেটওয়ার্ক (MAN)   |
+| লাইসেন্স               | লাইসেন্স বা কোন নির্দিষ্ট ফ্রিকোয়েন্সি প্রয়োজন নেই। | লাইসেন্স সহ নির্দিষ্ট ফ্রিকোয়েন্সির প্রয়োজন। |
