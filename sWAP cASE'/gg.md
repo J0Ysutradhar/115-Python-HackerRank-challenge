@@ -1,10 +1,10 @@
-| তুলনার বিষয়            | ওয়াই-ফাই                         | ওয়াই- ম্যাক্স                         |
-|-------------------------|------------------------------------|----------------------------------------|
-| স্ট্যান্ডার্ড            | IEEE 802.11                        | IEEE 802.16                            |
-| ফ্রিকোয়েন্সি ব্যান্ড    | 2.4GHz থেকে 2.85GHz                | 2.3 GHz থেকে 2.5 GHz                   |
-| গতি বা স্পীড            | 11-200 Mbps                        | 80 Mbps-1Gbps                          |
-| রেঞ্জ বা কভারেজ এরিয়া | ৫০ থেকে ১০০ মিটার                | প্রায় ৫০ কিলোমিটার                   |
-| ব্যয়                  | তুলনামূলকভাবে কম ব্যয়            | তুলনামূলকভাবে ব্যয় বেশি              |
-| ব্যবহার                | ওয়্যারলেস লোকাল এরিয়া নেটওয়ার্ক (LAN) তৈরিতে ব্যবহৃত হয় | ওয়্যারলেস ম্যান (MAN) তৈরিতে ব্যবহৃত হয় |
-| নেটওয়ার্ক টাইপ        | লোকাল এরিয়া নেটওয়ার্ক (LAN)     | মেট্রোপলিটন এরিয়া নেটওয়ার্ক (MAN)   |
-| লাইসেন্স               | লাইসেন্স বা কোন নির্দিষ্ট ফ্রিকোয়েন্সি প্রয়োজন নেই। | লাইসেন্স সহ নির্দিষ্ট ফ্রিকোয়েন্সির প্রয়োজন। |
+| Comparison Topic         | Wi-Fi                             | WiMAX                                  |
+|--------------------------|-----------------------------------|----------------------------------------|
+| Standard                 | IEEE 802.11                       | IEEE 802.16                            |
+| Frequency Band           | 2.4GHz to 2.85GHz                 | 2.3 GHz to 2.5 GHz                     |
+| Speed                    | 11-200 Mbps                       | 80 Mbps-1Gbps                          |
+| Range or Coverage Area   | 50 to 100 meters                  | Around 50 kilometers                   |
+| Cost                     | Comparatively low cost            | Comparatively high cost                |
+| Usage                    | Used to build Wireless LAN        | Used to build Wireless MAN             |
+| Network Type             | Local Area Network (LAN)          | Metropolitan Area Network (MAN)        |
+| License                  | No license or specific frequency required | Requires license and specific frequency |
