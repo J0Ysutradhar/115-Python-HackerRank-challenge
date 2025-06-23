@@ -1,10 +1,8 @@
-| Comparison Topic         | Wi-Fi                             | WiMAX                                  |
-|--------------------------|-----------------------------------|----------------------------------------|
-| Standard                 | IEEE 802.11                       | IEEE 802.16                            |
-| Frequency Band           | 2.4GHz to 2.85GHz                 | 2.3 GHz to 2.5 GHz                     |
-| Speed                    | 11-200 Mbps                       | 80 Mbps-1Gbps                          |
-| Range or Coverage Area   | 50 to 100 meters                  | Around 50 kilometers                   |
-| Cost                     | Comparatively low cost            | Comparatively high cost                |
-| Usage                    | Used to build Wireless LAN        | Used to build Wireless MAN             |
-| Network Type             | Local Area Network (LAN)          | Metropolitan Area Network (MAN)        |
-| License                  | No license or specific frequency required | Requires license and specific frequency |
+| তুলনার বিষয়              | দ্বিতীয় প্রজন্ম          | পঞ্চম প্রজন্ম            |
+|--------------------------|---------------------------|--------------------------|
+| ডেটা ট্রান্সমিশন রেট    | 56 Kbps থেকে 115 Kbps     | 1 Gbps থেকে 10 Gbps     |
+| ফ্রিকোয়েন্সি            | 1.8 GHz                    | 3–300 GHz                |
+| ব্যবহৃত সিগন্যালিং প্রযুক্তি | এনালগ থেকে ডিজিটাল       | ডিজিটাল                  |
+| এনকোডিং পদ্ধতি           | CDMA                       | LDPC                     |
+| ব্যবহার                   | কথা, টেক্সট মেসেজ ও সীমিত ব্রাউজিং | 4K টিভি ও ভিডিও স্ট্রিমিং, কথা, টেক্সট মেসেজ, উচ্চ গতির ইন্টারনেট |
+| প্রযুক্তি                 | IS95, GSM                  | 5G NR, RAT, MIMO, WWWW   |
