@@ -1,8 +1,8 @@
-| তুলনার বিষয়              | দ্বিতীয় প্রজন্ম          | পঞ্চম প্রজন্ম            |
-|--------------------------|---------------------------|--------------------------|
-| ডেটা ট্রান্সমিশন রেট    | 56 Kbps থেকে 115 Kbps     | 1 Gbps থেকে 10 Gbps     |
-| ফ্রিকোয়েন্সি            | 1.8 GHz                    | 3–300 GHz                |
-| ব্যবহৃত সিগন্যালিং প্রযুক্তি | এনালগ থেকে ডিজিটাল       | ডিজিটাল                  |
-| এনকোডিং পদ্ধতি           | CDMA                       | LDPC                     |
-| ব্যবহার                   | কথা, টেক্সট মেসেজ ও সীমিত ব্রাউজিং | 4K টিভি ও ভিডিও স্ট্রিমিং, কথা, টেক্সট মেসেজ, উচ্চ গতির ইন্টারনেট |
-| প্রযুক্তি                 | IS95, GSM                  | 5G NR, RAT, MIMO, WWWW   |
+| Comparison Topic         | 2nd Generation             | 5th Generation            |
+|--------------------------|----------------------------|---------------------------|
+| Data Transmission Rate   | 56 Kbps to 115 Kbps        | 1 Gbps to 10 Gbps         |
+| Frequency                | 1.8 GHz                    | 3–300 GHz                 |
+| Signaling Technology Used| Analog to Digital          | Digital                   |
+| Encoding Method          | CDMA                       | LDPC                      |
+| Usage                    | Voice, Text Message, Limited Browsing | 4K TV and Video Streaming, Voice, Text Message, High-Speed Internet |
+| Technology               | IS95, GSM                  | 5G NR, RAT, MIMO, WWWW    |
