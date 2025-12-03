@@ -5,7 +5,7 @@ Read two integers from the user and print the results of the following arithmeti
 
 1. The sum of the two numbers.
 2. The difference when the second number is subtracted from the first.
-3. The product of the two numbers
+3. The product of the two numbers.
 
 **Input Format**
 
